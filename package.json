@@ -39,9 +39,9 @@
   },
   "devDependencies": {
     "7zip-bin": "^5.0.3",
-    "@commitlint/cli": "^8.3.5",
+    "@commitlint/cli": "^20.1.0",
     "@commitlint/config-conventional": "^8.3.4",
-    "@commitlint/prompt": "^8.3.5",
+    "@commitlint/prompt": "^20.1.0",
     "@semantic-release/changelog": "^5.0.1",
     "@semantic-release/commit-analyzer": "^8.0.1",
     "@semantic-release/exec": "^5.0.0",
