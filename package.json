@@ -39,8 +39,8 @@
   },
   "devDependencies": {
     "7zip-bin": "^5.0.3",
-    "@commitlint/cli": "^8.3.5",
-    "@commitlint/config-conventional": "^8.3.4",
+    "@commitlint/cli": "^20.2.0",
+    "@commitlint/config-conventional": "^20.2.0",
     "@commitlint/prompt": "^8.3.5",
     "@semantic-release/changelog": "^5.0.1",
     "@semantic-release/commit-analyzer": "^8.0.1",
@@ -49,13 +49,13 @@
     "@semantic-release/github": "^7.0.5",
     "@semantic-release/npm": "^7.0.5",
     "@semantic-release/release-notes-generator": "^9.0.1",
-    "commitizen": "^4.0.4",
+    "commitizen": "^4.3.1",
     "del": "^5.1.0",
     "husky": "^4",
     "filecompare": "^1.0.4",
     "glob": "^7.1.6",
     "node-7z": "^2.1.1",
-    "semantic-release": "^17.0.4",
+    "semantic-release": "^25.0.2",
     "yargs": "^15.3.1"
   }
 }
